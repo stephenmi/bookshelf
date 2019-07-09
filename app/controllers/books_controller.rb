@@ -6,6 +6,7 @@ class BooksController < ApplicationController
     page = params[:more] ? params[:more].to_i : 0
 
     @books = Book.limit(PER_PAGE).offset PER_PAGE * page
+    p @books
     @more  = page + 1 if @books.count == PER_PAGE
   end
 
