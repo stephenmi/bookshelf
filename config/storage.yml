@@ -1,0 +1,5 @@
+google:
+  service: GCS
+  credentials: <%= Rails.root.join('./config/photo-album.json') %>
+  project: "photo-album-246104"
+  bucket: "photo-album-213221"

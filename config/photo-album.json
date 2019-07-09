@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "photo-album-246104",
+  "private_key_id": "d400e2e2b27ed1587dbc006a3ff6ab63f233b4f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDVI9J91gcvoZXT\nuvp5oTohY3vWYzCabwBubp91fjcUF2PZLLGUPIM+am0btGlGDOdQzAzg2j/ypQt4\npBFyYQvK8o6cVn1sI8uYyXxj/erzZdbqEUiRtHmiuOJmMiUsJ5sG+NVxeTsrt5Mj\no/JklvvXeay+WKn8yaXzg5F0Ra4YWgAnbCMy2YMG98X+HsGcAfuwq+/pRA9Yu0S0\nt7mZXWgpLxp2OrDlxhlHfYeEJeLy6Fr1D0EGyDV5bxwn8qUtoSSIsaeLs1bDzsHZ\noKHqElTm7yGYFrmiKNrWD5JIZmn7NWx0Phe5ClOrh0EAlMskAhJ6xS9ZdBpB9fve\nacGZ9ZS7AgMBAAECggEAaAbYXP+BuV8pw9HeH1AwEYy/K+d0mON1d/C5FjzYgA9c\ndepo75tLSULjZuK6gOyaV6aH4JTVIkYon6SgOU2hVlflf+t8wrOD0toAQsNzEYHS\nj6KI40iNF30aTtvJpc/cy93WO1B6rz8lav9BNpQ0bboetDaNHOqEeyJrcy7xJkOe\nemdiQzh6HlD8Ca/kw9BEn4k3DZX5e+G+/O0sA2pogxrdYYg2uIlI1gKPPp+AkHB5\ntKDh8NNJoHrpDY5MGl8xkq0tn7kL6Fr9Mb7D0wIygK5du0aArFVGrdZrXh8NpA6/\nK4yZiaQUtRj0R77hgBEKhTvMRaxeE4OBcXRgznpU7QKBgQD6rj3RuC99RQECiIpn\nYa9FcaZyrUpy5Ho0d3q3toOMSZ2itmheNqd7pvA98NX9BMf5lBirWL1p6u+JQPUT\ntWFET4d+hxL1KXM7VqOqfzLyqnSn8/O2QYi9+82IkUfLKTWP+3S9JDJ9+WKNWPa1\nCRwEmrLf9XzaaEqJkdp6THnQvwKBgQDZqaaGDnbvKWsyowb4HN7S0d5iTO4S34uq\n/sAr0riIjNB2Y7nYvRXfgSztwFEuY6PGUADcR6xT4k4uRKOjFG3U6mKsdVQj2ouh\nG+izjPeAd0nMoIV4nLop4ZOFzq2dV8G8uFXO8tZ6uVxyPt0x69WfYOMneEoN6gYi\nEczh5qq/BQKBgQDMz5mQhGTAe6VklXxHFQenvEBbB3yBPG0f+tJX0RXPg8H4VAIX\nn53dKDq20NN1AvgD0N0K+djf9eQ5hsn1jUboEfZJCUES7wfH3nSf84cDvwLKykU/\njnGTj2yQ/Onkcknh1ne9pRpf1GaRx7LhnIy4slAdLSwSIg1sMq+HJn6MbwKBgQDM\nH0E/bskyuFEDh8e9XrXIV3CKF0MdB+9fSNDHSDIuPIAyxos/KvQcSnPr8vMu4dpw\n3A4yhjSh5hUTZuNeyIXHqpcmzFE/3nAbgqTT3VsuarAW6mLBHZmoNRe34H8Ik4fo\nh6ZREYL6TGLZ8QJXEqefc6kTFse8DL/7q13MbBmsUQKBgQDhzrnXjylJ7U9f4aDQ\ny0obEqLtzHYEaaftb/sZdygnqCBnwZrKiI5lTKhSJ75rPCIPLAXwb0KXlwP5yraS\nlNl/cIAFFt1w8TfURK8S28cquQnF1xLJBK8p+vaWZARZsDF0DEcEjXLXRbqV/fYw\nIZlomn/pPuylaYWP5DPJqq6t8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "photo-album-246104@appspot.gserviceaccount.com",
+  "client_id": "116541530041933134390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/photo-album-246104%40appspot.gserviceaccount.com"
+}
